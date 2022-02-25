@@ -12,14 +12,15 @@ const About = () => {
             >
               <div className="col-md-12">
                 <div className="about-desc">
-                  <span className="heading-meta">About Us</span>
+                  <span className="heading-meta">About Me</span>
                   <h2 className="colorlib-heading">Who Am I?</h2>
                   <p>
-                    <strong>Hi I'm Abhisha Shah</strong> Hard-working web
-                    developer with a flair of developing, testing and
-                    maintaining elegant, user-friendly web applications in the
-                    least amount of time. Developed ecommerce & Saas webapp,
-                    customer web portal and fully-functional websites.
+                    <strong>Hi I'm Marie Knowlton-Hotchkiss</strong>{" "}
+                    Hard-working web developer with a flair of developing,
+                    testing and maintaining elegant, user-friendly web
+                    applications in the least amount of time. Developed
+                    ecommerce & Saas webapp, customer web portal and
+                    fully-functional websites.
                   </p>
                   <p>
                     Well-organised person, self-taught learner with high
@@ -33,7 +34,7 @@ const About = () => {
                   <p>
                     Current Focus:
                     <span className="current-focus">
-                      React-Redux // Responsive design // Python
+                      React-Redux // Responsive design // Javascript
                     </span>
                   </p>
                 </div>
