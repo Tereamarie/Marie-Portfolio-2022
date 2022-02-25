@@ -23,15 +23,15 @@ const Skills = () => {
             data-animate-effect="fadeInLeft"
           >
             <div className="progress-wrap">
-              <h3>PHP</h3>
+              <h3>JavaScript</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-1"
                   role="progressbar"
-                  aria-valuenow={65}
+                  aria-valuenow={85}
                   aria-valuemin={0}
                   aria-valuemax={100}
-                  style={{ width: "65%" }}
+                  style={{ width: "85%" }}
                 />
               </div>
             </div>
@@ -49,7 +49,7 @@ const Skills = () => {
                   aria-valuenow={50}
                   aria-valuemin={0}
                   aria-valuemax={100}
-                  style={{ width: "50%" }}
+                  style={{ width: "75%" }}
                 />
               </div>
             </div>
@@ -67,7 +67,7 @@ const Skills = () => {
                   aria-valuenow={70}
                   aria-valuemin={0}
                   aria-valuemax={100}
-                  style={{ width: "70%" }}
+                  style={{ width: "95%" }}
                 />
               </div>
             </div>
@@ -85,7 +85,7 @@ const Skills = () => {
                   aria-valuenow={63}
                   aria-valuemin={0}
                   aria-valuemax={100}
-                  style={{ width: "63%" }}
+                  style={{ width: "95%" }}
                 />
               </div>
             </div>
@@ -95,7 +95,7 @@ const Skills = () => {
             data-animate-effect="fadeInLeft"
           >
             <div className="progress-wrap">
-              <h3>Javascript/Jquery</h3>
+              <h3>Node/Express</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-5"
@@ -103,7 +103,7 @@ const Skills = () => {
                   aria-valuenow={50}
                   aria-valuemin={0}
                   aria-valuemax={100}
-                  style={{ width: "50%" }}
+                  style={{ width: "75%" }}
                 />
               </div>
             </div>
@@ -121,7 +121,7 @@ const Skills = () => {
                   aria-valuenow={30}
                   aria-valuemin={0}
                   aria-valuemax={100}
-                  style={{ width: "30%" }}
+                  style={{ width: "50%" }}
                 />
               </div>
             </div>
