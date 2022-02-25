@@ -17,12 +17,12 @@ const Sidebar = () => {
         <div className="text-center">
           <div
             className="author-img"
-            style={{ backgroundImage: "url(images/about.jpg)" }}
+            style={{ backgroundImage: "url(images/me.jpg)" }}
           />
           <h1 id="colorlib-logo">
-            <a href="index.html">Abhisha Shah</a>
+            <a href="index.html">Marie Knowlton-Hotchkiss</a>
           </h1>
-          <span className="position">Web Developer</span>
+          <span className="position">Full Stack Web Developer</span>
         </div>
         <nav id="colorlib-main-menu" role="navigation" className="navbar">
           <div id="navbar" className="collapse">
@@ -63,10 +63,10 @@ const Sidebar = () => {
           <ul>
             <li>
               <a
-                aria-label="Abhisha Shah"
-                href="mailto:abhisha5993@gmail.com"
+                aria-label="Marie Knowlton-Hotchkiss"
+                href="mailto:mtknowlton67@gmail.com"
                 data-position="top"
-                data-tooltip="Email Abhisha"
+                data-tooltip="Email Marie"
                 className="btn-floating btn-large waves-effect waves-light brown tooltipped"
               >
                 <div className="social-icon-div ">
@@ -76,12 +76,12 @@ const Sidebar = () => {
             </li>
             <li>
               <a
-                aria-label="View Abhisha on LinkedIn"
-                href="https://www.linkedin.com/in/abhisha-shah/"
+                aria-label="View Marie on LinkedIn"
+                href="https://www.linkedin.com/in/marie-hotchkiss-201571190/"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-position="top"
-                data-tooltip="View Abhisha on LinkedIn"
+                data-tooltip="View Marie on LinkedIn"
                 className="btn-floating btn-large waves-effect waves-light brown tooltipped"
               >
                 <div className="social-icon-div ">
@@ -91,28 +91,28 @@ const Sidebar = () => {
             </li>
             <li>
               <a
-                aria-label="Connect with Abhisha on Skype"
-                href="skype:anshah5993?chat"
+                aria-label="Viewwith Marie on GitHub"
+                href="github:https://github.com/Tereamarie"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-position="top"
-                data-tooltip="Connect with Abhisha on Skype"
+                data-tooltip="Connect with Marie on gitHub"
                 className="btn-floating btn-large waves-effect waves-light brown tooltipped"
               >
                 <div className="social-icon-div ">
-                  <i className="icon-skype custom-social-icon" />
+                  <i className="icon-github custom-social-icon" />
                 </div>
               </a>
             </li>
 
             <li>
               <a
-                href="https://github.com/AbhishaShah"
+                href="https://codepen.io/mthotchkiss18"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <div className="social-icon-div ">
-                  <i className="icon-github custom-social-icon" />
+                  <i className="icon-codepen custom-social-icon" />
                 </div>
               </a>
             </li>
