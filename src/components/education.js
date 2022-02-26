@@ -17,15 +17,14 @@ const Education = () => {
           <div className="col-md-12 text-center animate-box">
             <div className="services color-1">
               <div className="">
-                <h3>
-                  {" "}
-                  Master of Science in Information Technology and Computer
-                  Application{" "}
-                </h3>
-                <span className=" btn btn-primary pull-left ">2013-2015</span>
+                <h3> Bloom Institute of Web Develpoment </h3>
+                <span className=" btn btn-primary pull-left ">2019-2021</span>
                 <p>
                   Database management and design, project management life cycle
-                  practices and web applications development.
+                  practices and web applications development. Coursework in
+                  Programming, web designing and practical laboratory
+                  sessions.Prepared detailed reports and diagrams concerning
+                  project specifications and analysis.
                 </p>
               </div>
             </div>
@@ -34,12 +33,11 @@ const Education = () => {
           <div className="col-md-12 text-center animate-box">
             <div className="services color-5">
               <div className="">
-                <h3>
-                  Bachelor of Science in Information Technology and Computer
-                  Application
-                </h3>
+                <h3>Free Code Camp</h3>
                 <p>
-                  <span className=" btn btn-success pull-left ">2010-2013</span>
+                  <span className=" btn btn-success pull-left ">
+                    2019-current
+                  </span>
                   Coursework in Programming, web designing and practical
                   laboratory sessions.Prepared detailed reports and diagrams
                   concerning project specifications and analysis.

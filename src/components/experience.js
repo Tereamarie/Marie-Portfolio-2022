@@ -26,36 +26,38 @@ const Experience = () => {
                   </div>
                   <div className="timeline-label">
                     <h2>
-                      <a href=".">Web Developer</a>{" "}
+                      <a href=".">Back-end Developer</a>{" "}
                       <span className="jobplace">
-                        OCANDS, at the Faculty of Social Work, University of
-                        Toronto{" "}
+                        Underdog Devs, at Bloom Technology Insitute{" "}
                       </span>
                       <br />
-                      <span className="jobplace">2019-Present</span>
+                      <span className="jobplace">11/2021-12/2021</span>
                     </h2>
 
                     <div>
                       <div className="work-header">Responsibilities:</div>
                       <ul>
                         <li>
-                          Took the lead to design and built interactive
-                          Indicator dashboard system using Highcharts,
-                          integrating procedures and performed cache management
-                          to interpret and explore data in an intuitive manner.
+                          Greenfield application developed for Underdog Devs to
+                          manage their mentor-to-mentee relationships and
+                          interactions, as well as make for more efficient
+                          resource management.
                         </li>
                         <li>
                           Enhanced data importing, cleaning process along with
-                          troubleshooting
+                          troubleshooting. Worked with a team of Back-End
+                          developers to implement a Postgres database to manage
+                          our application’s ticketing system.
                         </li>
                         <li>
-                          Wrote SAS procedures for calculating Indicator results
-                          and integrate into Backdrop CMS and Formulize.
+                          Designed and implemented a Node.js/Express API, and
+                          constructed database models to perform CRUD operations
+                          on the Postgres database.
                         </li>
                         <li>
-                          Immediately attended to all reported customer issues
-                          regarding app-based and software solution, delivered
-                          software patches when needed.
+                          Assisted with debugging procedures via pair
+                          programming in an Agile remote engineering
+                          environment.
                         </li>
                         <li>
                           Applied version control software (Git) to track, test
@@ -71,7 +73,7 @@ const Experience = () => {
                       </ul>
                       <div className="work-header">Technology:</div>
                       <button className="btn btn-success cursor-none">
-                        Highchart
+                        PostgresSQL
                       </button>
                       <button className="btn btn-success cursor-none">
                         Javascript/ES6
@@ -100,30 +102,33 @@ const Experience = () => {
                   <div className="timeline-label">
                     <h2>
                       <a href=".">Full Stack Developer</a>{" "}
-                      <span className="jobplace">IMS Incorporated</span>
+                      <span className="jobplace">
+                        React Testing Contact Form
+                      </span>
                       <br />
-                      <span className="jobplace">2018-2019</span>
+                      <span className="jobplace">7/2020-8/2020</span>
                     </h2>
                     <div>
                       <div className="work-header">Responsibilities:</div>
                       <ul>
                         <li>
-                          Implemented custom features, filters and widgets for
-                          real estate system in order to maintain systems
-                          stability and provide clear quality of data.
+                          Implemented custom features, filters. Example of
+                          ability to write code tests in React Testing Library
+                          to efficiently test front-end user operations and
+                          provide clear quality of data.
                         </li>
                         <li>
-                          Wrote automatic synchronization system with remote
-                          APIs, Google Maps that parse the data, categorized
-                          into multiple fields and stored in system.
+                          Wrote appropriate code tests to ensure that contact
+                          form is not only operational and pre-filled but
+                          functions with user input as expected.
                         </li>
                         <li>
                           Work closely with product team members to design and
                           develop a SaaS application
                         </li>
                         <li>
-                          Maintained, updated and controlled company
-                          requirements with documentation.
+                          Gained an understanding of Test Driven Development
+                          through this project.
                         </li>
                       </ul>
                       <div className="work-header">Key Achievements:</div>
@@ -134,13 +139,13 @@ const Experience = () => {
                       </ul>
                       <div className="work-header">Technology:</div>
                       <button className="btn btn-success cursor-none">
-                        Google Charts API
-                      </button>
-                      <button className="btn btn-success cursor-none">
-                        Object oriented PHP
+                        React.js
                       </button>
                       <button className="btn btn-success cursor-none">
                         Javascript
+                      </button>
+                      <button className="btn btn-success cursor-none">
+                        React-testing-Library
                       </button>
                       <button className="btn btn-success cursor-none">
                         Bootstrap
@@ -149,7 +154,7 @@ const Experience = () => {
                   </div>
                 </div>
               </article>
-              <article
+              {/* <article
                 className="timeline-entry animate-box"
                 data-animate-effect="fadeInLeft"
               >
@@ -263,7 +268,7 @@ const Experience = () => {
                     </div>
                   </div>
                 </div>
-              </article>
+              </article> */}
 
               <article
                 className="timeline-entry begin animate-box"
