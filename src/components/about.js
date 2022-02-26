@@ -15,17 +15,17 @@ const About = () => {
                   <span className="heading-meta">About Me</span>
                   <h2 className="colorlib-heading">Who Am I?</h2>
                   <p>
-                    <strong>Hi I'm Marie Knowlton-Hotchkiss</strong>{" "}
-                    Hard-working web developer with a flair of developing,
+                    <strong>Hi I'm Marie Knowlton-Hotchkiss</strong> A
+                    Hard-working web developer with a flair for web design,
                     testing and maintaining elegant, user-friendly web
-                    applications in the least amount of time. Developed
-                    ecommerce & Saas webapp, customer web portal and
-                    fully-functional websites.
+                    applications in the least amount of time. Developed some
+                    projects and fully-functional websites while attending Bloom
+                    Instiute for Web Development.
                   </p>
                   <p>
-                    Well-organised person, self-taught learner with high
-                    attention to detail. When I'm not coding, you'll find me
-                    cooking, exploring places and hanging out with friends.
+                    Well-organised person, with high attention to detail. When
+                    I'm not coding, you'll find me cooking, exploring places and
+                    hanging out with friends.
                   </p>
                   <p>
                     Interested in working on ambitious projects with positive
