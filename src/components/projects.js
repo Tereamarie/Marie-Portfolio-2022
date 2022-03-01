@@ -80,12 +80,12 @@ const Projects = () => {
                 <div className="con">
                 <div
               className="project"
-              style={{ background: "grey" }}
+              style={{ background: "orange" }}
             >
                   <h3>
-                    Work 02
+                   GitHub userCards
                   </h3>
-                  <span><a href="https://react-stateful-widget.netlify.app">Website</a></span>
+                  <span><a href="https://marie-usercards.netlify.app">Website</a></span>
                   <p className="icon">
                     <span>
                       <a href=".">
@@ -108,52 +108,21 @@ const Projects = () => {
               </div>
             
           </div>
-          <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
-            <div
-              className="project"
-              style={{ backgroundImage: "url(images/img-3.jpg)" }}
-            >
-              <div className="desc">
-                <div className="con">
-                  <h3>
-                    <a href="work.html">Work 03</a>
-                  </h3>
-                  <span>Illustration</span>
-                  <p className="icon">
-                    <span>
-                      <a href=".">
-                        <i className="icon-share3" />
-                      </a>
-                    </span>
-                    <span>
-                      <a href=".">
-                        <i className="icon-eye" /> 100
-                      </a>
-                    </span>
-                    <span>
-                      <a href=".">
-                        <i className="icon-heart" /> 49
-                      </a>
-                    </span>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
           <div
             className="col-md-6 animate-box"
-            data-animate-effect="fadeInBottom"
+            data-animate-effect="fadeInRight"
           >
-            <div
-              className="project"
-              style={{ backgroundImage: "url(images/img-4.jpg)" }}
-            >
+            
               <div className="desc">
                 <div className="con">
+                <div
+              className="project"
+              style={{ background: "pink" }}
+            >
                   <h3>
-                    <a href="work.html">Work 04</a>
+                   GitHub userCards
                   </h3>
-                  <span>Application</span>
+                  <span><a href="https://marie-usercards.netlify.app">Website</a></span>
                   <p className="icon">
                     <span>
                       <a href=".">
@@ -171,59 +140,26 @@ const Projects = () => {
                       </a>
                     </span>
                   </p>
+                  </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div
-            className="col-md-6 animate-box"
-            data-animate-effect="fadeInLeft"
-          >
-            <div
-              className="project"
-              style={{ backgroundImage: "url(images/img-5.jpg)" }}
-            >
-              <div className="desc">
-                <div className="con">
-                  <h3>
-                    <a href="work.html">Work 05</a>
-                  </h3>
-                  <span>Graphic, Logo</span>
-                  <p className="icon">
-                    <span>
-                      <a href=".">
-                        <i className="icon-share3" />
-                      </a>
-                    </span>
-                    <span>
-                      <a href=".">
-                        <i className="icon-eye" /> 100
-                      </a>
-                    </span>
-                    <span>
-                      <a href=".">
-                        <i className="icon-heart" /> 49
-                      </a>
-                    </span>
-                  </p>
-                </div>
-              </div>
-            </div>
+            
           </div>
           <div
             className="col-md-6 animate-box"
             data-animate-effect="fadeInRight"
           >
-            <div
-              className="project"
-              style={{ backgroundImage: "url(images/img-6.jpg)" }}
-            >
+            
               <div className="desc">
                 <div className="con">
+                <div
+              className="project"
+              style={{ background: "pink" }}
+            >
                   <h3>
-                    <a href="work.html">Work 06</a>
+                   GitHub userCards
                   </h3>
-                  <span>Web Design</span>
+                  <span><a href="https://marie-usercards.netlify.app">Website</a></span>
                   <p className="icon">
                     <span>
                       <a href=".">
@@ -241,9 +177,84 @@ const Projects = () => {
                       </a>
                     </span>
                   </p>
+                  </div>
                 </div>
               </div>
-            </div>
+            
+          </div>
+          <div
+            className="col-md-6 animate-box"
+            data-animate-effect="fadeInRight"
+          >
+            
+              <div className="desc">
+                <div className="con">
+                <div
+              className="project"
+              style={{ background: "grey" }}
+            >
+                  <h3>
+                   GitHub userCards
+                  </h3>
+                  <span><a href="https://marie-usercards.netlify.app">Website</a></span>
+                  <p className="icon">
+                    <span>
+                      <a href=".">
+                        <i className="icon-share3" />
+                      </a>
+                    </span>
+                    <span>
+                      <a href=".">
+                        <i className="icon-eye" /> 100
+                      </a>
+                    </span>
+                    <span>
+                      <a href=".">
+                        <i className="icon-heart" /> 49
+                      </a>
+                    </span>
+                  </p>
+                  </div>
+                </div>
+              </div>
+            
+          </div>
+          <div
+            className="col-md-6 animate-box"
+            data-animate-effect="fadeInRight"
+          >
+            
+              <div className="desc">
+                <div className="con">
+                <div
+              className="project"
+              style={{ background: "grey" }}
+            >
+                  <h3>
+                   GitHub userCards
+                  </h3>
+                  <span><a href="https://marie-usercards.netlify.app">Website</a></span>
+                  <p className="icon">
+                    <span>
+                      <a href=".">
+                        <i className="icon-share3" />
+                      </a>
+                    </span>
+                    <span>
+                      <a href=".">
+                        <i className="icon-eye" /> 100
+                      </a>
+                    </span>
+                    <span>
+                      <a href=".">
+                        <i className="icon-heart" /> 49
+                      </a>
+                    </span>
+                  </p>
+                  </div>
+                </div>
+              </div>
+            
           </div>
         </div>
         <div className="row">
