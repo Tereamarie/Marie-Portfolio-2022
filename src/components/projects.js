@@ -41,16 +41,14 @@ const Projects = () => {
             className="col-md-6 animate-box"
             data-animate-effect="fadeInLeft"
           >
-            <div
-              className="project"
-              style={{ backgroundImage: "url(images/img-1.jpg)" }}
-            >
-              <div className="desc">
+            <div className="desc">
                 <div className="con">
+                < div className="project" style={{ background: "grey" }}>
                   <h3>
-                    <a href="work.html">Work 01</a>
+                     
+                     React-Stateful-Widget
                   </h3>
-                  <span>Website</span>
+                  <span><a href="https://react-stateful-widget.netlify.app">Website</a></span>
                   <p className="icon">
                     <span>
                       <a href=".">
@@ -72,20 +70,22 @@ const Projects = () => {
               </div>
             </div>
           </div>
+
           <div
             className="col-md-6 animate-box"
             data-animate-effect="fadeInRight"
           >
-            <div
-              className="project"
-              style={{ backgroundImage: "url(images/img-2.jpg)" }}
-            >
+            
               <div className="desc">
                 <div className="con">
+                <div
+              className="project"
+              style={{ background: "grey" }}
+            >
                   <h3>
-                    <a href="work.html">Work 02</a>
+                    Work 02
                   </h3>
-                  <span>Animation</span>
+                  <span><a href="https://react-stateful-widget.netlify.app">Website</a></span>
                   <p className="icon">
                     <span>
                       <a href=".">
@@ -103,9 +103,10 @@ const Projects = () => {
                       </a>
                     </span>
                   </p>
+                  </div>
                 </div>
               </div>
-            </div>
+            
           </div>
           <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
             <div

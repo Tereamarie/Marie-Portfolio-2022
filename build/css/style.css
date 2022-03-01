@@ -29,19 +29,16 @@ body {
   }
 }
 
- a  {
-  color: #1edd3e;
+a {
+  color: #2c98f0;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-  .icon a{
-    color: red;
-  }
 a:hover,
 a:active,
 a:focus {
-  color: #111111;
+  color: #2c98f0;
   outline: none;
   text-decoration: none !important;
 }
@@ -83,7 +80,7 @@ figure figcaption {
 
 ::-webkit-selection {
   color: #fff;
-  background: #f02cb5;
+  background: #2c98f0;
 }
 
 ::-moz-selection {
