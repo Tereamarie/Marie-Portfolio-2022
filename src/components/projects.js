@@ -157,9 +157,9 @@ const Projects = () => {
               style={{ background: "pink" }}
             >
                   <h3>
-                   GitHub userCards
+                  React-Components-Insta-Clone
                   </h3>
-                  <span><a href="https://marie-usercards.netlify.app">Website</a></span>
+                  <span><a href="insta-clone-22.netlify.app">Website</a></span>
                   <p className="icon">
                     <span>
                       <a href=".">
